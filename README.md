@@ -36,6 +36,7 @@ To build an Excel‐based interactive dashboard that tracks campaign performance
 
 ## Expected Deliverables:
 * Excel workbook with cleaned dataset, calculated fields, pivot tables and dashboard sheets.
+![Marketing Campaign](https://github.com/VictoryTechbie/Customer-Segmentation-Dashboard/blob/main/assests/Screenshot%202025-11-18%20160748.png)
 * Interactive dashboard enabling filtering by channel, demographic and time period.
 * Executive summary report (Word/PDF) with key findings, segment profiles, channel recommendations, and actionable next steps for marketing strategy.
 
